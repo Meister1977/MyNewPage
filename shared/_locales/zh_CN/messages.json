@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "带有可编辑收藏的专属新标签页，通过 Google 云端硬盘同步。"
+  },
+  "addCurrentTab": {
+    "message": "添加到新标签页收藏"
+  },
+  "newTabTitle": {
+    "message": "新标签页"
+  },
+  "searchPlaceholder": {
+    "message": "向 Google 提问"
+  },
+  "search": {
+    "message": "搜索"
+  },
+  "searchGoogle": {
+    "message": "搜索 Google"
+  },
+  "favorites": {
+    "message": "收藏"
+  },
+  "folder": {
+    "message": "文件夹"
+  },
+  "folderName": {
+    "message": "文件夹名称"
+  },
+  "close": {
+    "message": "关闭"
+  },
+  "name": {
+    "message": "名称"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "ok": {
+    "message": "确定"
+  },
+  "add": {
+    "message": "添加"
+  },
+  "newFavorite": {
+    "message": "新建收藏"
+  },
+  "editFavorite": {
+    "message": "编辑收藏"
+  },
+  "actions": {
+    "message": "操作"
+  },
+  "openInNewTab": {
+    "message": "在新标签页中打开"
+  },
+  "open": {
+    "message": "打开"
+  },
+  "rename": {
+    "message": "重命名"
+  },
+  "edit": {
+    "message": "编辑"
+  },
+  "moveEarlier": {
+    "message": "前移"
+  },
+  "moveLater": {
+    "message": "后移"
+  },
+  "removeFromFolder": {
+    "message": "从文件夹中移除"
+  },
+  "deleteFolder": {
+    "message": "删除文件夹"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "renameFolderTitle": {
+    "message": "重命名文件夹"
+  },
+  "deleteItemTitle": {
+    "message": "删除“{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "该文件夹及其所有内容都将被删除。"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "languageAuto": {
+    "message": "自动（浏览器语言）"
+  },
+  "signIn": {
+    "message": "使用 Google 登录"
+  },
+  "signOut": {
+    "message": "退出登录"
+  },
+  "signInPrompt": {
+    "message": "登录后，您的收藏将通过 Google 云端硬盘同步。"
+  },
+  "syncError": {
+    "message": "无法与 Google 云端硬盘同步。"
+  },
+  "mobileTitle": {
+    "message": "在手机上使用"
+  },
+  "mobileText": {
+    "message": "扫描二维码打开页面，然后将此地址设为 Chrome 的主页（设置 → 主页）。"
+  }
+}

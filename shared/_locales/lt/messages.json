@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Jūsų pačių naujas skirtukas su redaguojamais mėgstamiausiais, sinchronizuojamais per „Google“ diską."
+  },
+  "addCurrentTab": {
+    "message": "Pridėti prie naujo skirtuko mėgstamiausių"
+  },
+  "newTabTitle": {
+    "message": "Naujas skirtukas"
+  },
+  "searchPlaceholder": {
+    "message": "Paklauskite „Google“"
+  },
+  "search": {
+    "message": "Ieškoti"
+  },
+  "searchGoogle": {
+    "message": "Ieškoti „Google“"
+  },
+  "favorites": {
+    "message": "Mėgstamiausi"
+  },
+  "folder": {
+    "message": "Aplankas"
+  },
+  "folderName": {
+    "message": "Aplanko pavadinimas"
+  },
+  "close": {
+    "message": "Uždaryti"
+  },
+  "name": {
+    "message": "Pavadinimas"
+  },
+  "cancel": {
+    "message": "Atšaukti"
+  },
+  "save": {
+    "message": "Išsaugoti"
+  },
+  "ok": {
+    "message": "Gerai"
+  },
+  "add": {
+    "message": "Pridėti"
+  },
+  "newFavorite": {
+    "message": "Naujas mėgstamiausias"
+  },
+  "editFavorite": {
+    "message": "Redaguoti mėgstamiausią"
+  },
+  "actions": {
+    "message": "Veiksmai"
+  },
+  "openInNewTab": {
+    "message": "Atidaryti naujame skirtuke"
+  },
+  "open": {
+    "message": "Atidaryti"
+  },
+  "rename": {
+    "message": "Pervadinti"
+  },
+  "edit": {
+    "message": "Redaguoti"
+  },
+  "moveEarlier": {
+    "message": "Perkelti anksčiau"
+  },
+  "moveLater": {
+    "message": "Perkelti vėliau"
+  },
+  "removeFromFolder": {
+    "message": "Pašalinti iš aplanko"
+  },
+  "deleteFolder": {
+    "message": "Ištrinti aplanką"
+  },
+  "delete": {
+    "message": "Ištrinti"
+  },
+  "renameFolderTitle": {
+    "message": "Pervadinti aplanką"
+  },
+  "deleteItemTitle": {
+    "message": "Ištrinti „{0}“"
+  },
+  "deleteFolderMessage": {
+    "message": "Aplankas ir visas jo turinys bus ištrinti."
+  },
+  "settings": {
+    "message": "Nustatymai"
+  },
+  "language": {
+    "message": "Kalba"
+  },
+  "languageAuto": {
+    "message": "Automatiškai (naršyklės kalba)"
+  },
+  "signIn": {
+    "message": "Prisijungti su „Google“"
+  },
+  "signOut": {
+    "message": "Atsijungti"
+  },
+  "signInPrompt": {
+    "message": "Prisijunkite, kad sinchronizuotumėte mėgstamiausius per „Google“ diską."
+  },
+  "syncError": {
+    "message": "Nepavyko sinchronizuoti su „Google“ disku."
+  },
+  "mobileTitle": {
+    "message": "Naudojimas telefone"
+  },
+  "mobileText": {
+    "message": "Nuskaitykite QR kodą, kad atidarytumėte puslapį, ir nustatykite šį adresą kaip „Chrome“ pradžios puslapį (Nustatymai → Pradžios puslapis)."
+  }
+}

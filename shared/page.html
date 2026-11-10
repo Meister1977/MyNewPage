@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title data-i18n="newTabTitle"></title>
+  <link rel="icon" href="icons/icon48.png">
+  <link rel="stylesheet" href="newtab.css">
+</head>
+<body>
+  <main>
+    <div id="syncBar" hidden>
+      <span id="syncText"></span>
+      <button type="button" id="signInBtn" data-i18n="signIn"></button>
+    </div>
+
+    <div class="logo" aria-label="Google">
+      <span style="color:#4285f4">G</span><span style="color:#ea4335">o</span><span style="color:#fbbc05">o</span><span style="color:#4285f4">g</span><span style="color:#34a853">l</span><span style="color:#ea4335">e</span>
+    </div>
+
+    <form id="search" method="get" role="search">
+      <input name="q" data-i18n-placeholder="search" data-i18n-aria-label="search" autofocus autocomplete="off">
+      <button type="submit" data-i18n-aria-label="search">🔍</button>
+    </form>
+
+    <section id="grid" class="grid" data-i18n-aria-label="favorites"></section>
+  </main>
+  <button type="button" id="settingsBtn" class="settings" data-i18n-aria-label="settings" data-i18n-title="settings">⚙</button>
+
+  <dialog id="folderDlg" data-i18n-aria-label="folder" closedby="any">
+    <div id="panel">
+      <input id="folderName" data-i18n-aria-label="folderName">
+      <button type="button" class="close" command="close" commandfor="folderDlg" data-i18n-aria-label="close" autofocus>✕</button>
+      <section id="folderGrid" class="grid"></section>
+    </div>
+  </dialog>
+
+  <div id="ctx" popover="auto"></div>
+
+  <dialog id="dlg" aria-labelledby="dlgTitle">
+    <form method="dialog">
+      <h2 id="dlgTitle"></h2>
+      <label><span data-i18n="name"></span> <input id="fName" required autofocus></label>
+      <label>URL <input id="fUrl" type="url" required placeholder="https://"></label>
+      <menu>
+        <button type="button" command="close" commandfor="dlg" data-i18n="cancel"></button>
+        <button value="ok" class="primary" data-i18n="save"></button>
+      </menu>
+    </form>
+  </dialog>
+
+  <dialog id="askDlg" aria-labelledby="askTitle">
+    <form method="dialog">
+      <h2 id="askTitle"></h2>
+      <p id="askMsg"></p>
+      <input id="askInput" aria-labelledby="askTitle" hidden>
+      <menu>
+        <button type="button" id="askCancel" command="close" commandfor="askDlg" data-i18n="cancel"></button>
+        <button value="ok" id="askOk" class="primary" data-i18n="ok"></button>
+      </menu>
+    </form>
+  </dialog>
+
+  <dialog id="settingsDlg" aria-labelledby="settingsTitle" closedby="any">
+    <div id="settingsBody">
+      <button type="button" class="close" command="close" commandfor="settingsDlg" data-i18n-aria-label="close">✕</button>
+      <h2 id="settingsTitle"></h2>
+      <label class="row"><span id="langLabel"></span> <select id="langSelect"></select></label>
+      <section>
+        <h3 data-i18n="mobileTitle"></h3>
+        <p data-i18n="mobileText"></p>
+        <p><a id="siteLink" target="_blank" rel="noopener"></a></p>
+        <div id="qr"></div>
+      </section>
+      <section id="accountSection" hidden>
+        <button type="button" id="signOutBtn" data-i18n="signOut"></button>
+      </section>
+    </div>
+  </dialog>
+
+  <script src="config.js"></script>
+  <script src="platform.js"></script>
+  <script src="drive.js"></script>
+  <script src="store.js"></script>
+  <script src="i18n.js"></script>
+  <script src="qrcode.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

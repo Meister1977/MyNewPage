@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Vaša vlastita nova kartica s uredivim favoritima, sinkroniziranim putem Google Drivea."
+  },
+  "addCurrentTab": {
+    "message": "Dodaj u favorite nove kartice"
+  },
+  "newTabTitle": {
+    "message": "Nova kartica"
+  },
+  "searchPlaceholder": {
+    "message": "Pitajte Google"
+  },
+  "search": {
+    "message": "Traži"
+  },
+  "searchGoogle": {
+    "message": "Pretraži Google"
+  },
+  "favorites": {
+    "message": "Favoriti"
+  },
+  "folder": {
+    "message": "Mapa"
+  },
+  "folderName": {
+    "message": "Naziv mape"
+  },
+  "close": {
+    "message": "Zatvori"
+  },
+  "name": {
+    "message": "Naziv"
+  },
+  "cancel": {
+    "message": "Odustani"
+  },
+  "save": {
+    "message": "Spremi"
+  },
+  "ok": {
+    "message": "U redu"
+  },
+  "add": {
+    "message": "Dodaj"
+  },
+  "newFavorite": {
+    "message": "Novi favorit"
+  },
+  "editFavorite": {
+    "message": "Uredi favorit"
+  },
+  "actions": {
+    "message": "Radnje"
+  },
+  "openInNewTab": {
+    "message": "Otvori u novoj kartici"
+  },
+  "open": {
+    "message": "Otvori"
+  },
+  "rename": {
+    "message": "Preimenuj"
+  },
+  "edit": {
+    "message": "Uredi"
+  },
+  "moveEarlier": {
+    "message": "Pomakni naprijed"
+  },
+  "moveLater": {
+    "message": "Pomakni natrag"
+  },
+  "removeFromFolder": {
+    "message": "Ukloni iz mape"
+  },
+  "deleteFolder": {
+    "message": "Izbriši mapu"
+  },
+  "delete": {
+    "message": "Izbriši"
+  },
+  "renameFolderTitle": {
+    "message": "Preimenuj mapu"
+  },
+  "deleteItemTitle": {
+    "message": "Izbriši „{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Mapa i sav njezin sadržaj bit će izbrisani."
+  },
+  "settings": {
+    "message": "Postavke"
+  },
+  "language": {
+    "message": "Jezik"
+  },
+  "languageAuto": {
+    "message": "Automatski (jezik preglednika)"
+  },
+  "signIn": {
+    "message": "Prijava putem Googlea"
+  },
+  "signOut": {
+    "message": "Odjava"
+  },
+  "signInPrompt": {
+    "message": "Prijavite se za sinkronizaciju favorita putem Google Drivea."
+  },
+  "syncError": {
+    "message": "Sinkronizacija s Google Driveom nije uspjela."
+  },
+  "mobileTitle": {
+    "message": "Upotreba na telefonu"
+  },
+  "mobileText": {
+    "message": "Skenirajte QR kod za otvaranje stranice i postavite ovu adresu kao početnu stranicu u Chromeu (Postavke → Početna stranica)."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Ваша власна нова вкладка з редагованим вибраним, синхронізованим через Google Диск."
+  },
+  "addCurrentTab": {
+    "message": "Додати до вибраного нової вкладки"
+  },
+  "newTabTitle": {
+    "message": "Нова вкладка"
+  },
+  "searchPlaceholder": {
+    "message": "Запитайте Google"
+  },
+  "search": {
+    "message": "Пошук"
+  },
+  "searchGoogle": {
+    "message": "Шукати в Google"
+  },
+  "favorites": {
+    "message": "Вибране"
+  },
+  "folder": {
+    "message": "Папка"
+  },
+  "folderName": {
+    "message": "Назва папки"
+  },
+  "close": {
+    "message": "Закрити"
+  },
+  "name": {
+    "message": "Назва"
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "save": {
+    "message": "Зберегти"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Додати"
+  },
+  "newFavorite": {
+    "message": "Нове вибране"
+  },
+  "editFavorite": {
+    "message": "Редагувати вибране"
+  },
+  "actions": {
+    "message": "Дії"
+  },
+  "openInNewTab": {
+    "message": "Відкрити в новій вкладці"
+  },
+  "open": {
+    "message": "Відкрити"
+  },
+  "rename": {
+    "message": "Перейменувати"
+  },
+  "edit": {
+    "message": "Редагувати"
+  },
+  "moveEarlier": {
+    "message": "Перемістити раніше"
+  },
+  "moveLater": {
+    "message": "Перемістити пізніше"
+  },
+  "removeFromFolder": {
+    "message": "Прибрати з папки"
+  },
+  "deleteFolder": {
+    "message": "Видалити папку"
+  },
+  "delete": {
+    "message": "Видалити"
+  },
+  "renameFolderTitle": {
+    "message": "Перейменувати папку"
+  },
+  "deleteItemTitle": {
+    "message": "Видалити «{0}»"
+  },
+  "deleteFolderMessage": {
+    "message": "Папку та весь її вміст буде видалено."
+  },
+  "settings": {
+    "message": "Налаштування"
+  },
+  "language": {
+    "message": "Мова"
+  },
+  "languageAuto": {
+    "message": "Автоматично (мова браузера)"
+  },
+  "signIn": {
+    "message": "Увійти через Google"
+  },
+  "signOut": {
+    "message": "Вийти"
+  },
+  "signInPrompt": {
+    "message": "Увійдіть, щоб синхронізувати вибране через Google Диск."
+  },
+  "syncError": {
+    "message": "Не вдалося синхронізувати з Google Диском."
+  },
+  "mobileTitle": {
+    "message": "Використання на телефоні"
+  },
+  "mobileText": {
+    "message": "Скануйте QR-код, щоб відкрити сторінку, і вкажіть цю адресу як головну сторінку в Chrome (Налаштування → Головна сторінка)."
+  }
+}

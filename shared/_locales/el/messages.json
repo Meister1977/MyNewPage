@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Η δική σας νέα καρτέλα με επεξεργάσιμα αγαπημένα, συγχρονισμένα μέσω του Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Προσθήκη στα αγαπημένα της νέας καρτέλας"
+  },
+  "newTabTitle": {
+    "message": "Νέα καρτέλα"
+  },
+  "searchPlaceholder": {
+    "message": "Ρωτήστε το Google"
+  },
+  "search": {
+    "message": "Αναζήτηση"
+  },
+  "searchGoogle": {
+    "message": "Αναζήτηση στο Google"
+  },
+  "favorites": {
+    "message": "Αγαπημένα"
+  },
+  "folder": {
+    "message": "Φάκελος"
+  },
+  "folderName": {
+    "message": "Όνομα φακέλου"
+  },
+  "close": {
+    "message": "Κλείσιμο"
+  },
+  "name": {
+    "message": "Όνομα"
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "save": {
+    "message": "Αποθήκευση"
+  },
+  "ok": {
+    "message": "ΟΚ"
+  },
+  "add": {
+    "message": "Προσθήκη"
+  },
+  "newFavorite": {
+    "message": "Νέο αγαπημένο"
+  },
+  "editFavorite": {
+    "message": "Επεξεργασία αγαπημένου"
+  },
+  "actions": {
+    "message": "Ενέργειες"
+  },
+  "openInNewTab": {
+    "message": "Άνοιγμα σε νέα καρτέλα"
+  },
+  "open": {
+    "message": "Άνοιγμα"
+  },
+  "rename": {
+    "message": "Μετονομασία"
+  },
+  "edit": {
+    "message": "Επεξεργασία"
+  },
+  "moveEarlier": {
+    "message": "Μετακίνηση νωρίτερα"
+  },
+  "moveLater": {
+    "message": "Μετακίνηση αργότερα"
+  },
+  "removeFromFolder": {
+    "message": "Αφαίρεση από τον φάκελο"
+  },
+  "deleteFolder": {
+    "message": "Διαγραφή φακέλου"
+  },
+  "delete": {
+    "message": "Διαγραφή"
+  },
+  "renameFolderTitle": {
+    "message": "Μετονομασία φακέλου"
+  },
+  "deleteItemTitle": {
+    "message": "Διαγραφή «{0}»"
+  },
+  "deleteFolderMessage": {
+    "message": "Ο φάκελος και όλο το περιεχόμενό του θα διαγραφούν."
+  },
+  "settings": {
+    "message": "Ρυθμίσεις"
+  },
+  "language": {
+    "message": "Γλώσσα"
+  },
+  "languageAuto": {
+    "message": "Αυτόματα (γλώσσα του προγράμματος περιήγησης)"
+  },
+  "signIn": {
+    "message": "Σύνδεση με Google"
+  },
+  "signOut": {
+    "message": "Αποσύνδεση"
+  },
+  "signInPrompt": {
+    "message": "Συνδεθείτε για να συγχρονίσετε τα αγαπημένα σας μέσω του Google Drive."
+  },
+  "syncError": {
+    "message": "Ο συγχρονισμός με το Google Drive απέτυχε."
+  },
+  "mobileTitle": {
+    "message": "Χρήση στο τηλέφωνο"
+  },
+  "mobileText": {
+    "message": "Σαρώστε τον κωδικό QR για να ανοίξετε τη σελίδα και ορίστε αυτή τη διεύθυνση ως αρχική σελίδα του Chrome (Ρυθμίσεις → Αρχική σελίδα)."
+  }
+}

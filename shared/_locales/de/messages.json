@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Deine eigene neue Registerkarte mit bearbeitbaren Favoriten, synchronisiert über Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Zu Favoriten des neuen Tabs hinzufügen"
+  },
+  "newTabTitle": {
+    "message": "Neuer Tab"
+  },
+  "searchPlaceholder": {
+    "message": "Google fragen"
+  },
+  "search": {
+    "message": "Suchen"
+  },
+  "searchGoogle": {
+    "message": "Google durchsuchen"
+  },
+  "favorites": {
+    "message": "Favoriten"
+  },
+  "folder": {
+    "message": "Ordner"
+  },
+  "folderName": {
+    "message": "Ordnername"
+  },
+  "close": {
+    "message": "Schließen"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Hinzufügen"
+  },
+  "newFavorite": {
+    "message": "Neuer Favorit"
+  },
+  "editFavorite": {
+    "message": "Favorit bearbeiten"
+  },
+  "actions": {
+    "message": "Aktionen"
+  },
+  "openInNewTab": {
+    "message": "In neuem Tab öffnen"
+  },
+  "open": {
+    "message": "Öffnen"
+  },
+  "rename": {
+    "message": "Umbenennen"
+  },
+  "edit": {
+    "message": "Bearbeiten"
+  },
+  "moveEarlier": {
+    "message": "Nach vorn verschieben"
+  },
+  "moveLater": {
+    "message": "Nach hinten verschieben"
+  },
+  "removeFromFolder": {
+    "message": "Aus Ordner entfernen"
+  },
+  "deleteFolder": {
+    "message": "Ordner löschen"
+  },
+  "delete": {
+    "message": "Löschen"
+  },
+  "renameFolderTitle": {
+    "message": "Ordner umbenennen"
+  },
+  "deleteItemTitle": {
+    "message": "„{0}“ löschen"
+  },
+  "deleteFolderMessage": {
+    "message": "Der Ordner und sein gesamter Inhalt werden gelöscht."
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "languageAuto": {
+    "message": "Automatisch (Browsersprache)"
+  },
+  "signIn": {
+    "message": "Mit Google anmelden"
+  },
+  "signOut": {
+    "message": "Abmelden"
+  },
+  "signInPrompt": {
+    "message": "Melde dich an, um deine Favoriten über dein Google Drive zu synchronisieren."
+  },
+  "syncError": {
+    "message": "Synchronisierung mit Google Drive fehlgeschlagen."
+  },
+  "mobileTitle": {
+    "message": "Auf dem Smartphone nutzen"
+  },
+  "mobileText": {
+    "message": "Scanne den QR-Code, um die Seite zu öffnen, und lege diese Adresse als Startseite in Chrome fest (Einstellungen → Startseite)."
+  }
+}

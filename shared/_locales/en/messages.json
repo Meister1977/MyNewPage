@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Your own new tab page with editable favorites, synced through Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Add to New Tab favorites"
+  },
+  "newTabTitle": {
+    "message": "New Tab"
+  },
+  "searchPlaceholder": {
+    "message": "Ask Google"
+  },
+  "search": {
+    "message": "Search"
+  },
+  "searchGoogle": {
+    "message": "Search Google"
+  },
+  "favorites": {
+    "message": "Favorites"
+  },
+  "folder": {
+    "message": "Folder"
+  },
+  "folderName": {
+    "message": "Folder name"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Add"
+  },
+  "newFavorite": {
+    "message": "New favorite"
+  },
+  "editFavorite": {
+    "message": "Edit favorite"
+  },
+  "actions": {
+    "message": "Actions"
+  },
+  "openInNewTab": {
+    "message": "Open in new tab"
+  },
+  "open": {
+    "message": "Open"
+  },
+  "rename": {
+    "message": "Rename"
+  },
+  "edit": {
+    "message": "Edit"
+  },
+  "moveEarlier": {
+    "message": "Move earlier"
+  },
+  "moveLater": {
+    "message": "Move later"
+  },
+  "removeFromFolder": {
+    "message": "Remove from folder"
+  },
+  "deleteFolder": {
+    "message": "Delete folder"
+  },
+  "delete": {
+    "message": "Delete"
+  },
+  "renameFolderTitle": {
+    "message": "Rename folder"
+  },
+  "deleteItemTitle": {
+    "message": "Delete “{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "The folder and everything in it will be deleted."
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "languageAuto": {
+    "message": "Automatic (browser language)"
+  },
+  "signIn": {
+    "message": "Sign in with Google"
+  },
+  "signOut": {
+    "message": "Sign out"
+  },
+  "signInPrompt": {
+    "message": "Sign in to sync your favorites through your Google Drive."
+  },
+  "syncError": {
+    "message": "Could not sync with Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Use on your phone"
+  },
+  "mobileText": {
+    "message": "Scan the QR code to open the page, then set this address as your Chrome homepage (Settings → Homepage)."
+  }
+}

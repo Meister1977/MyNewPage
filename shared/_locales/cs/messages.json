@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Vlastní nová karta s upravitelnými oblíbenými položkami synchronizovanými přes Disk Google."
+  },
+  "addCurrentTab": {
+    "message": "Přidat do oblíbených nové karty"
+  },
+  "newTabTitle": {
+    "message": "Nová karta"
+  },
+  "searchPlaceholder": {
+    "message": "Zeptejte se Googlu"
+  },
+  "search": {
+    "message": "Hledat"
+  },
+  "searchGoogle": {
+    "message": "Hledat Googlem"
+  },
+  "favorites": {
+    "message": "Oblíbené"
+  },
+  "folder": {
+    "message": "Složka"
+  },
+  "folderName": {
+    "message": "Název složky"
+  },
+  "close": {
+    "message": "Zavřít"
+  },
+  "name": {
+    "message": "Název"
+  },
+  "cancel": {
+    "message": "Zrušit"
+  },
+  "save": {
+    "message": "Uložit"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Přidat"
+  },
+  "newFavorite": {
+    "message": "Nová oblíbená položka"
+  },
+  "editFavorite": {
+    "message": "Upravit oblíbenou položku"
+  },
+  "actions": {
+    "message": "Akce"
+  },
+  "openInNewTab": {
+    "message": "Otevřít na nové kartě"
+  },
+  "open": {
+    "message": "Otevřít"
+  },
+  "rename": {
+    "message": "Přejmenovat"
+  },
+  "edit": {
+    "message": "Upravit"
+  },
+  "moveEarlier": {
+    "message": "Posunout dříve"
+  },
+  "moveLater": {
+    "message": "Posunout později"
+  },
+  "removeFromFolder": {
+    "message": "Odebrat ze složky"
+  },
+  "deleteFolder": {
+    "message": "Smazat složku"
+  },
+  "delete": {
+    "message": "Smazat"
+  },
+  "renameFolderTitle": {
+    "message": "Přejmenovat složku"
+  },
+  "deleteItemTitle": {
+    "message": "Smazat „{0}“"
+  },
+  "deleteFolderMessage": {
+    "message": "Složka a veškerý její obsah budou smazány."
+  },
+  "settings": {
+    "message": "Nastavení"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "languageAuto": {
+    "message": "Automaticky (jazyk prohlížeče)"
+  },
+  "signIn": {
+    "message": "Přihlásit se přes Google"
+  },
+  "signOut": {
+    "message": "Odhlásit se"
+  },
+  "signInPrompt": {
+    "message": "Přihlaste se a synchronizujte oblíbené položky přes Disk Google."
+  },
+  "syncError": {
+    "message": "Synchronizace s Diskem Google se nezdařila."
+  },
+  "mobileTitle": {
+    "message": "Použití v telefonu"
+  },
+  "mobileText": {
+    "message": "Naskenujte QR kód pro otevření stránky a nastavte tuto adresu jako domovskou stránku Chromu (Nastavení → Domovská stránka)."
+  }
+}

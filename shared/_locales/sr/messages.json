@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Ваша сопствена нова картица са уредивим фаворитима, синхронизованим преко Google Drive-а."
+  },
+  "addCurrentTab": {
+    "message": "Додај у фаворите нове картице"
+  },
+  "newTabTitle": {
+    "message": "Нова картица"
+  },
+  "searchPlaceholder": {
+    "message": "Питајте Google"
+  },
+  "search": {
+    "message": "Претражи"
+  },
+  "searchGoogle": {
+    "message": "Претражи Google"
+  },
+  "favorites": {
+    "message": "Фаворити"
+  },
+  "folder": {
+    "message": "Фасцикла"
+  },
+  "folderName": {
+    "message": "Назив фасцикле"
+  },
+  "close": {
+    "message": "Затвори"
+  },
+  "name": {
+    "message": "Назив"
+  },
+  "cancel": {
+    "message": "Откажи"
+  },
+  "save": {
+    "message": "Сачувај"
+  },
+  "ok": {
+    "message": "У реду"
+  },
+  "add": {
+    "message": "Додај"
+  },
+  "newFavorite": {
+    "message": "Нови фаворит"
+  },
+  "editFavorite": {
+    "message": "Уреди фаворит"
+  },
+  "actions": {
+    "message": "Радње"
+  },
+  "openInNewTab": {
+    "message": "Отвори у новој картици"
+  },
+  "open": {
+    "message": "Отвори"
+  },
+  "rename": {
+    "message": "Преименуј"
+  },
+  "edit": {
+    "message": "Уреди"
+  },
+  "moveEarlier": {
+    "message": "Помери напред"
+  },
+  "moveLater": {
+    "message": "Помери назад"
+  },
+  "removeFromFolder": {
+    "message": "Уклони из фасцикле"
+  },
+  "deleteFolder": {
+    "message": "Обриши фасциклу"
+  },
+  "delete": {
+    "message": "Обриши"
+  },
+  "renameFolderTitle": {
+    "message": "Преименуј фасциклу"
+  },
+  "deleteItemTitle": {
+    "message": "Обриши „{0}“"
+  },
+  "deleteFolderMessage": {
+    "message": "Фасцикла и сав њен садржај биће обрисани."
+  },
+  "settings": {
+    "message": "Подешавања"
+  },
+  "language": {
+    "message": "Језик"
+  },
+  "languageAuto": {
+    "message": "Аутоматски (језик прегледача)"
+  },
+  "signIn": {
+    "message": "Пријава преко Google-а"
+  },
+  "signOut": {
+    "message": "Одјава"
+  },
+  "signInPrompt": {
+    "message": "Пријавите се да синхронизујете фаворите преко Google Drive-а."
+  },
+  "syncError": {
+    "message": "Синхронизација са Google Drive-ом није успела."
+  },
+  "mobileTitle": {
+    "message": "Коришћење на телефону"
+  },
+  "mobileText": {
+    "message": "Скенирајте QR код да отворите страницу и подесите ову адресу као почетну страницу у Chrome-у (Подешавања → Почетна страница)."
+  }
+}

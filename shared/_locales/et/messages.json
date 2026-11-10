@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Sinu enda uus vaheleht muudetavate lemmikutega, sünkroonitud Google Drive'i kaudu."
+  },
+  "addCurrentTab": {
+    "message": "Lisa uue vahelehe lemmikutesse"
+  },
+  "newTabTitle": {
+    "message": "Uus vaheleht"
+  },
+  "searchPlaceholder": {
+    "message": "Küsi Googlelt"
+  },
+  "search": {
+    "message": "Otsi"
+  },
+  "searchGoogle": {
+    "message": "Otsi Google'ist"
+  },
+  "favorites": {
+    "message": "Lemmikud"
+  },
+  "folder": {
+    "message": "Kaust"
+  },
+  "folderName": {
+    "message": "Kausta nimi"
+  },
+  "close": {
+    "message": "Sulge"
+  },
+  "name": {
+    "message": "Nimi"
+  },
+  "cancel": {
+    "message": "Tühista"
+  },
+  "save": {
+    "message": "Salvesta"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Lisa"
+  },
+  "newFavorite": {
+    "message": "Uus lemmik"
+  },
+  "editFavorite": {
+    "message": "Muuda lemmikut"
+  },
+  "actions": {
+    "message": "Toimingud"
+  },
+  "openInNewTab": {
+    "message": "Ava uuel vahelehel"
+  },
+  "open": {
+    "message": "Ava"
+  },
+  "rename": {
+    "message": "Nimeta ümber"
+  },
+  "edit": {
+    "message": "Muuda"
+  },
+  "moveEarlier": {
+    "message": "Liiguta varasemaks"
+  },
+  "moveLater": {
+    "message": "Liiguta hilisemaks"
+  },
+  "removeFromFolder": {
+    "message": "Eemalda kaustast"
+  },
+  "deleteFolder": {
+    "message": "Kustuta kaust"
+  },
+  "delete": {
+    "message": "Kustuta"
+  },
+  "renameFolderTitle": {
+    "message": "Nimeta kaust ümber"
+  },
+  "deleteItemTitle": {
+    "message": "Kustuta „{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Kaust ja kogu selle sisu kustutatakse."
+  },
+  "settings": {
+    "message": "Seaded"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "languageAuto": {
+    "message": "Automaatne (brauseri keel)"
+  },
+  "signIn": {
+    "message": "Logi sisse Google'iga"
+  },
+  "signOut": {
+    "message": "Logi välja"
+  },
+  "signInPrompt": {
+    "message": "Logi sisse, et sünkroonida oma lemmikud Google Drive'i kaudu."
+  },
+  "syncError": {
+    "message": "Google Drive'iga sünkroonimine ebaõnnestus."
+  },
+  "mobileTitle": {
+    "message": "Kasutamine telefonis"
+  },
+  "mobileText": {
+    "message": "Skannige QR-kood lehe avamiseks ja määrake see aadress Chrome'i avalehena (Seaded → Avaleht)."
+  }
+}

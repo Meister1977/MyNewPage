@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Вашият собствен нов раздел с редактируеми любими, синхронизирани чрез Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Добави към любимите на новия раздел"
+  },
+  "newTabTitle": {
+    "message": "Нов раздел"
+  },
+  "searchPlaceholder": {
+    "message": "Попитайте Google"
+  },
+  "search": {
+    "message": "Търсене"
+  },
+  "searchGoogle": {
+    "message": "Търсене в Google"
+  },
+  "favorites": {
+    "message": "Любими"
+  },
+  "folder": {
+    "message": "Папка"
+  },
+  "folderName": {
+    "message": "Име на папката"
+  },
+  "close": {
+    "message": "Затвори"
+  },
+  "name": {
+    "message": "Име"
+  },
+  "cancel": {
+    "message": "Отказ"
+  },
+  "save": {
+    "message": "Запази"
+  },
+  "ok": {
+    "message": "ОК"
+  },
+  "add": {
+    "message": "Добави"
+  },
+  "newFavorite": {
+    "message": "Нов любим"
+  },
+  "editFavorite": {
+    "message": "Редактиране на любим"
+  },
+  "actions": {
+    "message": "Действия"
+  },
+  "openInNewTab": {
+    "message": "Отвори в нов раздел"
+  },
+  "open": {
+    "message": "Отвори"
+  },
+  "rename": {
+    "message": "Преименуване"
+  },
+  "edit": {
+    "message": "Редактиране"
+  },
+  "moveEarlier": {
+    "message": "Премести по-напред"
+  },
+  "moveLater": {
+    "message": "Премести по-назад"
+  },
+  "removeFromFolder": {
+    "message": "Премахни от папката"
+  },
+  "deleteFolder": {
+    "message": "Изтрий папката"
+  },
+  "delete": {
+    "message": "Изтрий"
+  },
+  "renameFolderTitle": {
+    "message": "Преименуване на папката"
+  },
+  "deleteItemTitle": {
+    "message": "Изтриване на „{0}“"
+  },
+  "deleteFolderMessage": {
+    "message": "Папката и цялото ѝ съдържание ще бъдат изтрити."
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "language": {
+    "message": "Език"
+  },
+  "languageAuto": {
+    "message": "Автоматично (език на браузъра)"
+  },
+  "signIn": {
+    "message": "Вход с Google"
+  },
+  "signOut": {
+    "message": "Изход"
+  },
+  "signInPrompt": {
+    "message": "Влезте, за да синхронизирате любимите си чрез Google Drive."
+  },
+  "syncError": {
+    "message": "Синхронизирането с Google Drive не успя."
+  },
+  "mobileTitle": {
+    "message": "Използване на телефона"
+  },
+  "mobileText": {
+    "message": "Сканирайте QR кода, за да отворите страницата, и задайте този адрес като начална страница в Chrome (Настройки → Начална страница)."
+  }
+}

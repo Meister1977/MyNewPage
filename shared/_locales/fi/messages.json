@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Oma uusi välilehti muokattavilla suosikeilla, synkronoituna Google Driven kautta."
+  },
+  "addCurrentTab": {
+    "message": "Lisää uuden välilehden suosikkeihin"
+  },
+  "newTabTitle": {
+    "message": "Uusi välilehti"
+  },
+  "searchPlaceholder": {
+    "message": "Kysy Googlelta"
+  },
+  "search": {
+    "message": "Haku"
+  },
+  "searchGoogle": {
+    "message": "Hae Googlella"
+  },
+  "favorites": {
+    "message": "Suosikit"
+  },
+  "folder": {
+    "message": "Kansio"
+  },
+  "folderName": {
+    "message": "Kansion nimi"
+  },
+  "close": {
+    "message": "Sulje"
+  },
+  "name": {
+    "message": "Nimi"
+  },
+  "cancel": {
+    "message": "Peruuta"
+  },
+  "save": {
+    "message": "Tallenna"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Lisää"
+  },
+  "newFavorite": {
+    "message": "Uusi suosikki"
+  },
+  "editFavorite": {
+    "message": "Muokkaa suosikkia"
+  },
+  "actions": {
+    "message": "Toiminnot"
+  },
+  "openInNewTab": {
+    "message": "Avaa uudessa välilehdessä"
+  },
+  "open": {
+    "message": "Avaa"
+  },
+  "rename": {
+    "message": "Nimeä uudelleen"
+  },
+  "edit": {
+    "message": "Muokkaa"
+  },
+  "moveEarlier": {
+    "message": "Siirrä eteenpäin"
+  },
+  "moveLater": {
+    "message": "Siirrä taaksepäin"
+  },
+  "removeFromFolder": {
+    "message": "Poista kansiosta"
+  },
+  "deleteFolder": {
+    "message": "Poista kansio"
+  },
+  "delete": {
+    "message": "Poista"
+  },
+  "renameFolderTitle": {
+    "message": "Nimeä kansio uudelleen"
+  },
+  "deleteItemTitle": {
+    "message": "Poista ”{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Kansio ja kaikki sen sisältö poistetaan."
+  },
+  "settings": {
+    "message": "Asetukset"
+  },
+  "language": {
+    "message": "Kieli"
+  },
+  "languageAuto": {
+    "message": "Automaattinen (selaimen kieli)"
+  },
+  "signIn": {
+    "message": "Kirjaudu Googlella"
+  },
+  "signOut": {
+    "message": "Kirjaudu ulos"
+  },
+  "signInPrompt": {
+    "message": "Kirjaudu sisään synkronoidaksesi suosikkisi Google Driven kautta."
+  },
+  "syncError": {
+    "message": "Synkronointi Google Driveen epäonnistui."
+  },
+  "mobileTitle": {
+    "message": "Käyttö puhelimessa"
+  },
+  "mobileText": {
+    "message": "Skannaa QR-koodi avataksesi sivun ja aseta tämä osoite Chromen aloitussivuksi (Asetukset → Aloitussivu)."
+  }
+}

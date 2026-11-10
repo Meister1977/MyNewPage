@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Din egen nya flik med redigerbara favoriter, synkroniserade via Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Lägg till i nya flikens favoriter"
+  },
+  "newTabTitle": {
+    "message": "Ny flik"
+  },
+  "searchPlaceholder": {
+    "message": "Fråga Google"
+  },
+  "search": {
+    "message": "Sök"
+  },
+  "searchGoogle": {
+    "message": "Sök på Google"
+  },
+  "favorites": {
+    "message": "Favoriter"
+  },
+  "folder": {
+    "message": "Mapp"
+  },
+  "folderName": {
+    "message": "Mappnamn"
+  },
+  "close": {
+    "message": "Stäng"
+  },
+  "name": {
+    "message": "Namn"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "save": {
+    "message": "Spara"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Lägg till"
+  },
+  "newFavorite": {
+    "message": "Ny favorit"
+  },
+  "editFavorite": {
+    "message": "Redigera favorit"
+  },
+  "actions": {
+    "message": "Åtgärder"
+  },
+  "openInNewTab": {
+    "message": "Öppna i ny flik"
+  },
+  "open": {
+    "message": "Öppna"
+  },
+  "rename": {
+    "message": "Byt namn"
+  },
+  "edit": {
+    "message": "Redigera"
+  },
+  "moveEarlier": {
+    "message": "Flytta tidigare"
+  },
+  "moveLater": {
+    "message": "Flytta senare"
+  },
+  "removeFromFolder": {
+    "message": "Ta bort från mapp"
+  },
+  "deleteFolder": {
+    "message": "Ta bort mapp"
+  },
+  "delete": {
+    "message": "Ta bort"
+  },
+  "renameFolderTitle": {
+    "message": "Byt namn på mapp"
+  },
+  "deleteItemTitle": {
+    "message": "Ta bort ”{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Mappen och allt i den tas bort."
+  },
+  "settings": {
+    "message": "Inställningar"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "languageAuto": {
+    "message": "Automatiskt (webbläsarens språk)"
+  },
+  "signIn": {
+    "message": "Logga in med Google"
+  },
+  "signOut": {
+    "message": "Logga ut"
+  },
+  "signInPrompt": {
+    "message": "Logga in för att synkronisera dina favoriter via Google Drive."
+  },
+  "syncError": {
+    "message": "Det gick inte att synkronisera med Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Använd på mobilen"
+  },
+  "mobileText": {
+    "message": "Skanna QR-koden för att öppna sidan och ange den här adressen som startsida i Chrome (Inställningar → Startsida)."
+  }
+}

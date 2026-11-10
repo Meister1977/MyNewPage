@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Jūsu pašu jaunā cilne ar rediģējamu izlasi, kas sinhronizēta, izmantojot Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Pievienot jaunās cilnes izlasei"
+  },
+  "newTabTitle": {
+    "message": "Jauna cilne"
+  },
+  "searchPlaceholder": {
+    "message": "Pajautājiet Google"
+  },
+  "search": {
+    "message": "Meklēt"
+  },
+  "searchGoogle": {
+    "message": "Meklēt Google"
+  },
+  "favorites": {
+    "message": "Izlase"
+  },
+  "folder": {
+    "message": "Mape"
+  },
+  "folderName": {
+    "message": "Mapes nosaukums"
+  },
+  "close": {
+    "message": "Aizvērt"
+  },
+  "name": {
+    "message": "Nosaukums"
+  },
+  "cancel": {
+    "message": "Atcelt"
+  },
+  "save": {
+    "message": "Saglabāt"
+  },
+  "ok": {
+    "message": "Labi"
+  },
+  "add": {
+    "message": "Pievienot"
+  },
+  "newFavorite": {
+    "message": "Jauns izlases vienums"
+  },
+  "editFavorite": {
+    "message": "Rediģēt izlases vienumu"
+  },
+  "actions": {
+    "message": "Darbības"
+  },
+  "openInNewTab": {
+    "message": "Atvērt jaunā cilnē"
+  },
+  "open": {
+    "message": "Atvērt"
+  },
+  "rename": {
+    "message": "Pārdēvēt"
+  },
+  "edit": {
+    "message": "Rediģēt"
+  },
+  "moveEarlier": {
+    "message": "Pārvietot agrāk"
+  },
+  "moveLater": {
+    "message": "Pārvietot vēlāk"
+  },
+  "removeFromFolder": {
+    "message": "Noņemt no mapes"
+  },
+  "deleteFolder": {
+    "message": "Dzēst mapi"
+  },
+  "delete": {
+    "message": "Dzēst"
+  },
+  "renameFolderTitle": {
+    "message": "Pārdēvēt mapi"
+  },
+  "deleteItemTitle": {
+    "message": "Dzēst “{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Mape un viss tās saturs tiks izdzēsts."
+  },
+  "settings": {
+    "message": "Iestatījumi"
+  },
+  "language": {
+    "message": "Valoda"
+  },
+  "languageAuto": {
+    "message": "Automātiski (pārlūka valoda)"
+  },
+  "signIn": {
+    "message": "Pierakstīties ar Google"
+  },
+  "signOut": {
+    "message": "Izrakstīties"
+  },
+  "signInPrompt": {
+    "message": "Pierakstieties, lai sinhronizētu izlasi, izmantojot Google Drive."
+  },
+  "syncError": {
+    "message": "Neizdevās sinhronizēt ar Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Lietošana tālrunī"
+  },
+  "mobileText": {
+    "message": "Noskenējiet QR kodu, lai atvērtu lapu, un iestatiet šo adresi kā Chrome sākumlapu (Iestatījumi → Sākumlapa)."
+  }
+}

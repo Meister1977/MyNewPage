@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "La teva pestanya nova amb preferits editables, sincronitzats mitjançant Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Afegeix a les preferides de la pestanya nova"
+  },
+  "newTabTitle": {
+    "message": "Pestanya nova"
+  },
+  "searchPlaceholder": {
+    "message": "Pregunta a Google"
+  },
+  "search": {
+    "message": "Cerca"
+  },
+  "searchGoogle": {
+    "message": "Cerca a Google"
+  },
+  "favorites": {
+    "message": "Preferits"
+  },
+  "folder": {
+    "message": "Carpeta"
+  },
+  "folderName": {
+    "message": "Nom de la carpeta"
+  },
+  "close": {
+    "message": "Tanca"
+  },
+  "name": {
+    "message": "Nom"
+  },
+  "cancel": {
+    "message": "Cancel·la"
+  },
+  "save": {
+    "message": "Desa"
+  },
+  "ok": {
+    "message": "D'acord"
+  },
+  "add": {
+    "message": "Afegeix"
+  },
+  "newFavorite": {
+    "message": "Preferit nou"
+  },
+  "editFavorite": {
+    "message": "Edita el preferit"
+  },
+  "actions": {
+    "message": "Accions"
+  },
+  "openInNewTab": {
+    "message": "Obre en una pestanya nova"
+  },
+  "open": {
+    "message": "Obre"
+  },
+  "rename": {
+    "message": "Canvia el nom"
+  },
+  "edit": {
+    "message": "Edita"
+  },
+  "moveEarlier": {
+    "message": "Mou abans"
+  },
+  "moveLater": {
+    "message": "Mou després"
+  },
+  "removeFromFolder": {
+    "message": "Treu de la carpeta"
+  },
+  "deleteFolder": {
+    "message": "Suprimeix la carpeta"
+  },
+  "delete": {
+    "message": "Suprimeix"
+  },
+  "renameFolderTitle": {
+    "message": "Canvia el nom de la carpeta"
+  },
+  "deleteItemTitle": {
+    "message": "Suprimeix «{0}»"
+  },
+  "deleteFolderMessage": {
+    "message": "La carpeta i tot el seu contingut se suprimiran."
+  },
+  "settings": {
+    "message": "Configuració"
+  },
+  "language": {
+    "message": "Llengua"
+  },
+  "languageAuto": {
+    "message": "Automàtic (llengua del navegador)"
+  },
+  "signIn": {
+    "message": "Inicia la sessió amb Google"
+  },
+  "signOut": {
+    "message": "Tanca la sessió"
+  },
+  "signInPrompt": {
+    "message": "Inicia la sessió per sincronitzar els preferits mitjançant Google Drive."
+  },
+  "syncError": {
+    "message": "No s'ha pogut sincronitzar amb Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Utilitza-ho al telèfon"
+  },
+  "mobileText": {
+    "message": "Escaneja el codi QR per obrir la pàgina i defineix aquesta adreça com a pàgina d'inici de Chrome (Configuració → Pàgina d'inici)."
+  }
+}

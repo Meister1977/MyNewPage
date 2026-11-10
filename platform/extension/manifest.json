@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "default_locale": "en",
+  "name": "MyNewPage",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmxnsSu90HipWJ0eS1d9/ZCVEQwVqUiABqZrqdQbXVcH0pO8p8Q/7rG405JISXgc/qxy0GjLAdhd6WCuKgIGpHMM0k07pTnQF0QMAqhFy+BZiry/gdg5Geyuod4CCoWwgnjg4v/cDM2DHHnY2biejZzFENVGiI8CgtCDqXx6dPPmyQJUKkSylqVcyluK5sM69etQtDLyf03JILKJp6Bzg0OK0dOTjdzCKTD9qsDxhsf60iopuW/BMNggLRVCvzCaZxafYd/6gR+R5tS9Mmy5/gr/cckXdMGiwOFl8WMoH4nTFbe1/IvZVl+qYsds7QOjDvJvBUUMeo9fRBJIUnmwQpQIDAQAB",
+  "version": "2.0",
+  "description": "__MSG_extDescription__",
+  "permissions": ["favicon", "activeTab", "storage", "search", "identity"],
+  "host_permissions": ["https://www.googleapis.com/*"],
+  "oauth2": {
+    "client_id": "362067408220-56dnfp7ft7dpqusu8mtirpk3u49movon.apps.googleusercontent.com",
+    "scopes": ["https://www.googleapis.com/auth/drive.appdata"]
+  },
+  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
+  "action": { "default_title": "__MSG_addCurrentTab__", "default_icon": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" } },
+  "background": { "service_worker": "background.js" },
+  "chrome_url_overrides": { "newtab": "newtab.html" }
+}

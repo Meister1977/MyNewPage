@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "編集可能なお気に入りを備えた、Google ドライブで同期される自分だけの新しいタブ。"
+  },
+  "addCurrentTab": {
+    "message": "新しいタブのお気に入りに追加"
+  },
+  "newTabTitle": {
+    "message": "新しいタブ"
+  },
+  "searchPlaceholder": {
+    "message": "Google に質問"
+  },
+  "search": {
+    "message": "検索"
+  },
+  "searchGoogle": {
+    "message": "Google 検索"
+  },
+  "favorites": {
+    "message": "お気に入り"
+  },
+  "folder": {
+    "message": "フォルダ"
+  },
+  "folderName": {
+    "message": "フォルダ名"
+  },
+  "close": {
+    "message": "閉じる"
+  },
+  "name": {
+    "message": "名前"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "newFavorite": {
+    "message": "新しいお気に入り"
+  },
+  "editFavorite": {
+    "message": "お気に入りを編集"
+  },
+  "actions": {
+    "message": "操作"
+  },
+  "openInNewTab": {
+    "message": "新しいタブで開く"
+  },
+  "open": {
+    "message": "開く"
+  },
+  "rename": {
+    "message": "名前を変更"
+  },
+  "edit": {
+    "message": "編集"
+  },
+  "moveEarlier": {
+    "message": "前に移動"
+  },
+  "moveLater": {
+    "message": "後ろに移動"
+  },
+  "removeFromFolder": {
+    "message": "フォルダから削除"
+  },
+  "deleteFolder": {
+    "message": "フォルダを削除"
+  },
+  "delete": {
+    "message": "削除"
+  },
+  "renameFolderTitle": {
+    "message": "フォルダ名を変更"
+  },
+  "deleteItemTitle": {
+    "message": "「{0}」を削除"
+  },
+  "deleteFolderMessage": {
+    "message": "フォルダとその中身がすべて削除されます。"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "languageAuto": {
+    "message": "自動（ブラウザの言語）"
+  },
+  "signIn": {
+    "message": "Google でログイン"
+  },
+  "signOut": {
+    "message": "ログアウト"
+  },
+  "signInPrompt": {
+    "message": "ログインすると、Google ドライブ経由でお気に入りを同期できます。"
+  },
+  "syncError": {
+    "message": "Google ドライブと同期できませんでした。"
+  },
+  "mobileTitle": {
+    "message": "スマートフォンで使う"
+  },
+  "mobileText": {
+    "message": "QR コードを読み取ってページを開き、このアドレスを Chrome のホームページに設定してください（設定 → ホームページ）。"
+  }
+}

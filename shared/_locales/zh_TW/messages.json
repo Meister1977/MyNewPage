@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "具備可編輯我的最愛的專屬新分頁，透過 Google 雲端硬碟同步。"
+  },
+  "addCurrentTab": {
+    "message": "加入新分頁我的最愛"
+  },
+  "newTabTitle": {
+    "message": "新分頁"
+  },
+  "searchPlaceholder": {
+    "message": "詢問 Google"
+  },
+  "search": {
+    "message": "搜尋"
+  },
+  "searchGoogle": {
+    "message": "搜尋 Google"
+  },
+  "favorites": {
+    "message": "我的最愛"
+  },
+  "folder": {
+    "message": "資料夾"
+  },
+  "folderName": {
+    "message": "資料夾名稱"
+  },
+  "close": {
+    "message": "關閉"
+  },
+  "name": {
+    "message": "名稱"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "save": {
+    "message": "儲存"
+  },
+  "ok": {
+    "message": "確定"
+  },
+  "add": {
+    "message": "新增"
+  },
+  "newFavorite": {
+    "message": "新增我的最愛"
+  },
+  "editFavorite": {
+    "message": "編輯我的最愛"
+  },
+  "actions": {
+    "message": "動作"
+  },
+  "openInNewTab": {
+    "message": "在新分頁中開啟"
+  },
+  "open": {
+    "message": "開啟"
+  },
+  "rename": {
+    "message": "重新命名"
+  },
+  "edit": {
+    "message": "編輯"
+  },
+  "moveEarlier": {
+    "message": "前移"
+  },
+  "moveLater": {
+    "message": "後移"
+  },
+  "removeFromFolder": {
+    "message": "從資料夾移除"
+  },
+  "deleteFolder": {
+    "message": "刪除資料夾"
+  },
+  "delete": {
+    "message": "刪除"
+  },
+  "renameFolderTitle": {
+    "message": "重新命名資料夾"
+  },
+  "deleteItemTitle": {
+    "message": "刪除「{0}」"
+  },
+  "deleteFolderMessage": {
+    "message": "資料夾及其所有內容都會被刪除。"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "language": {
+    "message": "語言"
+  },
+  "languageAuto": {
+    "message": "自動（瀏覽器語言）"
+  },
+  "signIn": {
+    "message": "使用 Google 登入"
+  },
+  "signOut": {
+    "message": "登出"
+  },
+  "signInPrompt": {
+    "message": "登入後，您的我的最愛會透過 Google 雲端硬碟同步。"
+  },
+  "syncError": {
+    "message": "無法與 Google 雲端硬碟同步。"
+  },
+  "mobileTitle": {
+    "message": "在手機上使用"
+  },
+  "mobileText": {
+    "message": "掃描 QR 碼開啟頁面，然後將此網址設為 Chrome 的首頁（設定 → 首頁）。"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Sua própria nova guia com favoritos editáveis, sincronizados pelo Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Adicionar aos favoritos da nova guia"
+  },
+  "newTabTitle": {
+    "message": "Nova guia"
+  },
+  "searchPlaceholder": {
+    "message": "Pergunte ao Google"
+  },
+  "search": {
+    "message": "Pesquisar"
+  },
+  "searchGoogle": {
+    "message": "Pesquisar no Google"
+  },
+  "favorites": {
+    "message": "Favoritos"
+  },
+  "folder": {
+    "message": "Pasta"
+  },
+  "folderName": {
+    "message": "Nome da pasta"
+  },
+  "close": {
+    "message": "Fechar"
+  },
+  "name": {
+    "message": "Nome"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "save": {
+    "message": "Salvar"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Adicionar"
+  },
+  "newFavorite": {
+    "message": "Novo favorito"
+  },
+  "editFavorite": {
+    "message": "Editar favorito"
+  },
+  "actions": {
+    "message": "Ações"
+  },
+  "openInNewTab": {
+    "message": "Abrir em nova guia"
+  },
+  "open": {
+    "message": "Abrir"
+  },
+  "rename": {
+    "message": "Renomear"
+  },
+  "edit": {
+    "message": "Editar"
+  },
+  "moveEarlier": {
+    "message": "Mover para antes"
+  },
+  "moveLater": {
+    "message": "Mover para depois"
+  },
+  "removeFromFolder": {
+    "message": "Remover da pasta"
+  },
+  "deleteFolder": {
+    "message": "Excluir pasta"
+  },
+  "delete": {
+    "message": "Excluir"
+  },
+  "renameFolderTitle": {
+    "message": "Renomear pasta"
+  },
+  "deleteItemTitle": {
+    "message": "Excluir “{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "A pasta e todo o seu conteúdo serão excluídos."
+  },
+  "settings": {
+    "message": "Configurações"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "languageAuto": {
+    "message": "Automático (idioma do navegador)"
+  },
+  "signIn": {
+    "message": "Entrar com o Google"
+  },
+  "signOut": {
+    "message": "Sair"
+  },
+  "signInPrompt": {
+    "message": "Faça login para sincronizar seus favoritos pelo Google Drive."
+  },
+  "syncError": {
+    "message": "Não foi possível sincronizar com o Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Usar no celular"
+  },
+  "mobileText": {
+    "message": "Leia o código QR para abrir a página e defina este endereço como página inicial do Chrome (Configurações → Página inicial)."
+  }
+}

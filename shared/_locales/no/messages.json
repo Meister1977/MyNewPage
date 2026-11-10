@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Din egen nye fane med redigerbare favoritter, synkronisert via Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Legg til i favoritter på ny fane"
+  },
+  "newTabTitle": {
+    "message": "Ny fane"
+  },
+  "searchPlaceholder": {
+    "message": "Spør Google"
+  },
+  "search": {
+    "message": "Søk"
+  },
+  "searchGoogle": {
+    "message": "Søk på Google"
+  },
+  "favorites": {
+    "message": "Favoritter"
+  },
+  "folder": {
+    "message": "Mappe"
+  },
+  "folderName": {
+    "message": "Mappenavn"
+  },
+  "close": {
+    "message": "Lukk"
+  },
+  "name": {
+    "message": "Navn"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "save": {
+    "message": "Lagre"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Legg til"
+  },
+  "newFavorite": {
+    "message": "Ny favoritt"
+  },
+  "editFavorite": {
+    "message": "Rediger favoritt"
+  },
+  "actions": {
+    "message": "Handlinger"
+  },
+  "openInNewTab": {
+    "message": "Åpne i ny fane"
+  },
+  "open": {
+    "message": "Åpne"
+  },
+  "rename": {
+    "message": "Gi nytt navn"
+  },
+  "edit": {
+    "message": "Rediger"
+  },
+  "moveEarlier": {
+    "message": "Flytt fremover"
+  },
+  "moveLater": {
+    "message": "Flytt bakover"
+  },
+  "removeFromFolder": {
+    "message": "Fjern fra mappe"
+  },
+  "deleteFolder": {
+    "message": "Slett mappe"
+  },
+  "delete": {
+    "message": "Slett"
+  },
+  "renameFolderTitle": {
+    "message": "Gi mappen nytt navn"
+  },
+  "deleteItemTitle": {
+    "message": "Slett «{0}»"
+  },
+  "deleteFolderMessage": {
+    "message": "Mappen og alt innholdet i den slettes."
+  },
+  "settings": {
+    "message": "Innstillinger"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "languageAuto": {
+    "message": "Automatisk (nettleserens språk)"
+  },
+  "signIn": {
+    "message": "Logg inn med Google"
+  },
+  "signOut": {
+    "message": "Logg ut"
+  },
+  "signInPrompt": {
+    "message": "Logg inn for å synkronisere favorittene dine via Google Drive."
+  },
+  "syncError": {
+    "message": "Kunne ikke synkronisere med Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Bruk på telefonen"
+  },
+  "mobileText": {
+    "message": "Skann QR-koden for å åpne siden, og angi denne adressen som startside i Chrome (Innstillinger → Startside)."
+  }
+}

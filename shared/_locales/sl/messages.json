@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Vaš lastni nov zavihek z urejljivimi priljubljenimi, sinhroniziranimi prek Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Dodaj med priljubljene novega zavihka"
+  },
+  "newTabTitle": {
+    "message": "Nov zavihek"
+  },
+  "searchPlaceholder": {
+    "message": "Vprašajte Google"
+  },
+  "search": {
+    "message": "Iskanje"
+  },
+  "searchGoogle": {
+    "message": "Išči z Googlom"
+  },
+  "favorites": {
+    "message": "Priljubljeni"
+  },
+  "folder": {
+    "message": "Mapa"
+  },
+  "folderName": {
+    "message": "Ime mape"
+  },
+  "close": {
+    "message": "Zapri"
+  },
+  "name": {
+    "message": "Ime"
+  },
+  "cancel": {
+    "message": "Prekliči"
+  },
+  "save": {
+    "message": "Shrani"
+  },
+  "ok": {
+    "message": "V redu"
+  },
+  "add": {
+    "message": "Dodaj"
+  },
+  "newFavorite": {
+    "message": "Nov priljubljeni element"
+  },
+  "editFavorite": {
+    "message": "Uredi priljubljeni element"
+  },
+  "actions": {
+    "message": "Dejanja"
+  },
+  "openInNewTab": {
+    "message": "Odpri v novem zavihku"
+  },
+  "open": {
+    "message": "Odpri"
+  },
+  "rename": {
+    "message": "Preimenuj"
+  },
+  "edit": {
+    "message": "Uredi"
+  },
+  "moveEarlier": {
+    "message": "Premakni naprej"
+  },
+  "moveLater": {
+    "message": "Premakni nazaj"
+  },
+  "removeFromFolder": {
+    "message": "Odstrani iz mape"
+  },
+  "deleteFolder": {
+    "message": "Izbriši mapo"
+  },
+  "delete": {
+    "message": "Izbriši"
+  },
+  "renameFolderTitle": {
+    "message": "Preimenuj mapo"
+  },
+  "deleteItemTitle": {
+    "message": "Izbriši »{0}«"
+  },
+  "deleteFolderMessage": {
+    "message": "Mapa in vsa njena vsebina bosta izbrisana."
+  },
+  "settings": {
+    "message": "Nastavitve"
+  },
+  "language": {
+    "message": "Jezik"
+  },
+  "languageAuto": {
+    "message": "Samodejno (jezik brskalnika)"
+  },
+  "signIn": {
+    "message": "Prijava z Googlom"
+  },
+  "signOut": {
+    "message": "Odjava"
+  },
+  "signInPrompt": {
+    "message": "Prijavite se za sinhronizacijo priljubljenih prek Google Drive."
+  },
+  "syncError": {
+    "message": "Sinhronizacija z Google Drive ni uspela."
+  },
+  "mobileTitle": {
+    "message": "Uporaba v telefonu"
+  },
+  "mobileText": {
+    "message": "Optično preberite kodo QR, da odprete stran, in ta naslov nastavite kot domačo stran v Chromu (Nastavitve → Domača stran)."
+  }
+}

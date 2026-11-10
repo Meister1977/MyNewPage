@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Saját új lap szerkeszthető kedvencekkel, Google Drive-on keresztül szinkronizálva."
+  },
+  "addCurrentTab": {
+    "message": "Hozzáadás az új lap kedvencekhez"
+  },
+  "newTabTitle": {
+    "message": "Új lap"
+  },
+  "searchPlaceholder": {
+    "message": "Kérdés a Google-nak"
+  },
+  "search": {
+    "message": "Keresés"
+  },
+  "searchGoogle": {
+    "message": "Keresés a Google-ben"
+  },
+  "favorites": {
+    "message": "Kedvencek"
+  },
+  "folder": {
+    "message": "Mappa"
+  },
+  "folderName": {
+    "message": "Mappa neve"
+  },
+  "close": {
+    "message": "Bezárás"
+  },
+  "name": {
+    "message": "Név"
+  },
+  "cancel": {
+    "message": "Mégse"
+  },
+  "save": {
+    "message": "Mentés"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Hozzáadás"
+  },
+  "newFavorite": {
+    "message": "Új kedvenc"
+  },
+  "editFavorite": {
+    "message": "Kedvenc szerkesztése"
+  },
+  "actions": {
+    "message": "Műveletek"
+  },
+  "openInNewTab": {
+    "message": "Megnyitás új lapon"
+  },
+  "open": {
+    "message": "Megnyitás"
+  },
+  "rename": {
+    "message": "Átnevezés"
+  },
+  "edit": {
+    "message": "Szerkesztés"
+  },
+  "moveEarlier": {
+    "message": "Mozgatás előre"
+  },
+  "moveLater": {
+    "message": "Mozgatás hátra"
+  },
+  "removeFromFolder": {
+    "message": "Kivétel a mappából"
+  },
+  "deleteFolder": {
+    "message": "Mappa törlése"
+  },
+  "delete": {
+    "message": "Törlés"
+  },
+  "renameFolderTitle": {
+    "message": "Mappa átnevezése"
+  },
+  "deleteItemTitle": {
+    "message": "„{0}” törlése"
+  },
+  "deleteFolderMessage": {
+    "message": "A mappa és minden tartalma törlődik."
+  },
+  "settings": {
+    "message": "Beállítások"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "languageAuto": {
+    "message": "Automatikus (böngésző nyelve)"
+  },
+  "signIn": {
+    "message": "Bejelentkezés Google-lel"
+  },
+  "signOut": {
+    "message": "Kijelentkezés"
+  },
+  "signInPrompt": {
+    "message": "Jelentkezz be, hogy a kedvenceid a Google Drive-on keresztül szinkronizálódjanak."
+  },
+  "syncError": {
+    "message": "Nem sikerült szinkronizálni a Google Drive-val."
+  },
+  "mobileTitle": {
+    "message": "Használat telefonon"
+  },
+  "mobileText": {
+    "message": "Olvasd be a QR-kódot az oldal megnyitásához, majd állítsd be ezt a címet a Chrome kezdőlapjaként (Beállítások → Kezdőlap)."
+  }
+}

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="MyNewPage is a custom new tab page with Google search and your own favorites in folders, synced through your Google Drive.">
+  <title>MyNewPage – your own new tab page</title>
+  <link rel="icon" href="assets/icon128.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="assets/icon128.png" alt="">
+    <strong>MyNewPage</strong>
+    <nav>
+      <a href="#features">Features</a>
+      <a href="#get-started">Get started</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="https://github.com/Meister1977/MyNewPage">GitHub</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Your own new tab page</h1>
+      <p>Google search on top, your favorite sites below it, in as many rows and folders as you like.
+        Everything syncs through your own Google Drive, on your computer and on your phone.</p>
+      <a class="button" href="myhome/index.html">Open the web version</a>
+      <a class="button secondary" href="#get-started">How to get it</a>
+    </section>
+
+    <figure>
+      <img src="assets/screenshot-home.png" alt="MyNewPage showing the Google search box and a grid of favorites such as Nasdaq, Microsoft and Weather, with folders">
+      <figcaption>The search box with your favorites in multiple rows. The sites shown are samples.</figcaption>
+    </figure>
+
+    <section id="features">
+      <h2>Features</h2>
+      <div class="features">
+        <div class="card">
+          <h3>Favorites in multiple rows</h3>
+          <p>No more single-row limit. Add as many favorites as you need and edit their names and addresses at any time.</p>
+        </div>
+        <div class="card">
+          <h3>Folders, like on an iPad</h3>
+          <p>Drag one favorite onto another to create a folder. Drag more in, drag them out, rename or delete the folder.
+            A folder with a single item left dissolves automatically.</p>
+        </div>
+        <div class="card">
+          <h3>Drag and drop ordering</h3>
+          <p>Reorder favorites by dragging. Prefer the keyboard or a touch screen? Use the context menu to move items earlier or later.</p>
+        </div>
+        <div class="card">
+          <h3>Add the current page in one click</h3>
+          <p>The Chrome extension adds a toolbar button that saves the page you are looking at to your favorites.</p>
+        </div>
+        <div class="card">
+          <h3>Synced through Google Drive</h3>
+          <p>Favorites are saved in a hidden app folder in your own Google Drive. Nobody else, including the developer, can see them.</p>
+        </div>
+        <div class="card">
+          <h3>On your phone, too</h3>
+          <p>Use the web version as your Chrome homepage on Android or iOS and see the same favorites. A QR code in the settings makes it easy.</p>
+        </div>
+        <div class="card">
+          <h3>Your language</h3>
+          <p>Available in 33 languages. It follows your browser language by default and can be changed in the settings.</p>
+        </div>
+        <div class="card">
+          <h3>Light and dark mode</h3>
+          <p>Follows your system theme automatically.</p>
+        </div>
+        <div class="card">
+          <h3>Your default search engine</h3>
+          <p>The extension searches with the search engine you have chosen in Chrome. The web version uses Google.</p>
+        </div>
+      </div>
+    </section>
+
+    <figure>
+      <img src="assets/screenshot-folder.png" alt="An opened folder named Work containing Outlook, Teams, OneDrive and GitHub">
+      <figcaption>Folders open in a panel. Drag an item outside the panel to take it out of the folder.</figcaption>
+    </figure>
+
+    <section id="get-started">
+      <h2>Get started</h2>
+
+      <h3>On your computer (Chrome extension)</h3>
+      <ol>
+        <li>Install the MyNewPage extension in Chrome. It is not on the Chrome Web Store yet; until then it can be loaded as an unpacked extension.</li>
+        <li>Open a new tab. Use the "Sign in with Google" button to start syncing your favorites.</li>
+        <li>Click the plus tile to add favorites, or press the MyNewPage button in the toolbar on any page you want to save.</li>
+        <li>Right-click a favorite or a folder for more actions. Drag one favorite onto another to make a folder.</li>
+      </ol>
+
+      <h3>On your phone (web version)</h3>
+      <ol>
+        <li>Open <a href="myhome/index.html">https://mynewpage.as.hu/myhome/index.html</a> and sign in with Google.</li>
+        <li>In Chrome on your phone, open <em>Settings → Homepage</em>, turn it on and enter the address above.
+          The settings of the page (the gear icon) also show a QR code for this address.</li>
+      </ol>
+      <p>Drag and drop between items works best with a mouse. On a touch screen, press and hold an item to open its menu.</p>
+    </section>
+
+    <section>
+      <h2>Open source</h2>
+      <p>Both the Chrome extension and the web version are open source. You can read the code, report issues or build your own copy on
+        <a href="https://github.com/Meister1977/MyNewPage">GitHub</a>.</p>
+    </section>
+
+    <section>
+      <h2>Privacy</h2>
+      <p>Your favorites live in your own Google Drive and the developer has no access to them. There are no ads and no analytics.
+        Read the full <a href="privacy.html">privacy policy</a>.</p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Questions or feedback? E-mail: <span data-contact data-label="Show e-mail address"></span><noscript>(enable JavaScript to see the address)</noscript></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>MyNewPage · Developed by Ambrózy Lőrinc · <a href="privacy.html">Privacy policy</a> · <a href="https://github.com/Meister1977/MyNewPage">Source code on GitHub</a></p>
+    <p>Google, Google Drive and Chrome are trademarks of Google LLC. MyNewPage is an independent project and is not affiliated with or endorsed by Google.</p>
+  </footer>
+  <script src="contact.js"></script>
+</body>
+</html>

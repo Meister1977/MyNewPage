@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Propria ta filă nouă cu favorite editabile, sincronizate prin Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Adaugă la favoritele filei noi"
+  },
+  "newTabTitle": {
+    "message": "Filă nouă"
+  },
+  "searchPlaceholder": {
+    "message": "Întreabă Google"
+  },
+  "search": {
+    "message": "Caută"
+  },
+  "searchGoogle": {
+    "message": "Caută pe Google"
+  },
+  "favorites": {
+    "message": "Favorite"
+  },
+  "folder": {
+    "message": "Dosar"
+  },
+  "folderName": {
+    "message": "Numele dosarului"
+  },
+  "close": {
+    "message": "Închide"
+  },
+  "name": {
+    "message": "Nume"
+  },
+  "cancel": {
+    "message": "Anulează"
+  },
+  "save": {
+    "message": "Salvează"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Adaugă"
+  },
+  "newFavorite": {
+    "message": "Favorit nou"
+  },
+  "editFavorite": {
+    "message": "Editează favoritul"
+  },
+  "actions": {
+    "message": "Acțiuni"
+  },
+  "openInNewTab": {
+    "message": "Deschide într-o filă nouă"
+  },
+  "open": {
+    "message": "Deschide"
+  },
+  "rename": {
+    "message": "Redenumește"
+  },
+  "edit": {
+    "message": "Editează"
+  },
+  "moveEarlier": {
+    "message": "Mută mai devreme"
+  },
+  "moveLater": {
+    "message": "Mută mai târziu"
+  },
+  "removeFromFolder": {
+    "message": "Elimină din dosar"
+  },
+  "deleteFolder": {
+    "message": "Șterge dosarul"
+  },
+  "delete": {
+    "message": "Șterge"
+  },
+  "renameFolderTitle": {
+    "message": "Redenumește dosarul"
+  },
+  "deleteItemTitle": {
+    "message": "Șterge „{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Dosarul și tot conținutul său vor fi șterse."
+  },
+  "settings": {
+    "message": "Setări"
+  },
+  "language": {
+    "message": "Limbă"
+  },
+  "languageAuto": {
+    "message": "Automat (limba browserului)"
+  },
+  "signIn": {
+    "message": "Conectează-te cu Google"
+  },
+  "signOut": {
+    "message": "Deconectează-te"
+  },
+  "signInPrompt": {
+    "message": "Conectează-te pentru a sincroniza favoritele prin Google Drive."
+  },
+  "syncError": {
+    "message": "Nu s-a putut sincroniza cu Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Folosește pe telefon"
+  },
+  "mobileText": {
+    "message": "Scanează codul QR pentru a deschide pagina și setează această adresă ca pagină de pornire în Chrome (Setări → Pagină de pornire)."
+  }
+}

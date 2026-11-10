@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Je eigen nieuwe tabblad met bewerkbare favorieten, gesynchroniseerd via Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Toevoegen aan favorieten van nieuw tabblad"
+  },
+  "newTabTitle": {
+    "message": "Nieuw tabblad"
+  },
+  "searchPlaceholder": {
+    "message": "Vraag het aan Google"
+  },
+  "search": {
+    "message": "Zoeken"
+  },
+  "searchGoogle": {
+    "message": "Zoeken op Google"
+  },
+  "favorites": {
+    "message": "Favorieten"
+  },
+  "folder": {
+    "message": "Map"
+  },
+  "folderName": {
+    "message": "Mapnaam"
+  },
+  "close": {
+    "message": "Sluiten"
+  },
+  "name": {
+    "message": "Naam"
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "save": {
+    "message": "Opslaan"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Toevoegen"
+  },
+  "newFavorite": {
+    "message": "Nieuwe favoriet"
+  },
+  "editFavorite": {
+    "message": "Favoriet bewerken"
+  },
+  "actions": {
+    "message": "Acties"
+  },
+  "openInNewTab": {
+    "message": "Openen in nieuw tabblad"
+  },
+  "open": {
+    "message": "Openen"
+  },
+  "rename": {
+    "message": "Naam wijzigen"
+  },
+  "edit": {
+    "message": "Bewerken"
+  },
+  "moveEarlier": {
+    "message": "Eerder plaatsen"
+  },
+  "moveLater": {
+    "message": "Later plaatsen"
+  },
+  "removeFromFolder": {
+    "message": "Uit map verwijderen"
+  },
+  "deleteFolder": {
+    "message": "Map verwijderen"
+  },
+  "delete": {
+    "message": "Verwijderen"
+  },
+  "renameFolderTitle": {
+    "message": "Map hernoemen"
+  },
+  "deleteItemTitle": {
+    "message": "‘{0}’ verwijderen"
+  },
+  "deleteFolderMessage": {
+    "message": "De map en alles erin wordt verwijderd."
+  },
+  "settings": {
+    "message": "Instellingen"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "languageAuto": {
+    "message": "Automatisch (browsertaal)"
+  },
+  "signIn": {
+    "message": "Inloggen met Google"
+  },
+  "signOut": {
+    "message": "Uitloggen"
+  },
+  "signInPrompt": {
+    "message": "Log in om je favorieten te synchroniseren via Google Drive."
+  },
+  "syncError": {
+    "message": "Synchroniseren met Google Drive is mislukt."
+  },
+  "mobileTitle": {
+    "message": "Gebruiken op je telefoon"
+  },
+  "mobileText": {
+    "message": "Scan de QR-code om de pagina te openen en stel dit adres in als startpagina van Chrome (Instellingen → Startpagina)."
+  }
+}

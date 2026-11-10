@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Własna nowa karta z edytowalnymi ulubionymi, synchronizowanymi przez Dysk Google."
+  },
+  "addCurrentTab": {
+    "message": "Dodaj do ulubionych nowej karty"
+  },
+  "newTabTitle": {
+    "message": "Nowa karta"
+  },
+  "searchPlaceholder": {
+    "message": "Zapytaj Google"
+  },
+  "search": {
+    "message": "Szukaj"
+  },
+  "searchGoogle": {
+    "message": "Szukaj w Google"
+  },
+  "favorites": {
+    "message": "Ulubione"
+  },
+  "folder": {
+    "message": "Folder"
+  },
+  "folderName": {
+    "message": "Nazwa folderu"
+  },
+  "close": {
+    "message": "Zamknij"
+  },
+  "name": {
+    "message": "Nazwa"
+  },
+  "cancel": {
+    "message": "Anuluj"
+  },
+  "save": {
+    "message": "Zapisz"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Dodaj"
+  },
+  "newFavorite": {
+    "message": "Nowy ulubiony"
+  },
+  "editFavorite": {
+    "message": "Edytuj ulubiony"
+  },
+  "actions": {
+    "message": "Działania"
+  },
+  "openInNewTab": {
+    "message": "Otwórz w nowej karcie"
+  },
+  "open": {
+    "message": "Otwórz"
+  },
+  "rename": {
+    "message": "Zmień nazwę"
+  },
+  "edit": {
+    "message": "Edytuj"
+  },
+  "moveEarlier": {
+    "message": "Przesuń wcześniej"
+  },
+  "moveLater": {
+    "message": "Przesuń później"
+  },
+  "removeFromFolder": {
+    "message": "Usuń z folderu"
+  },
+  "deleteFolder": {
+    "message": "Usuń folder"
+  },
+  "delete": {
+    "message": "Usuń"
+  },
+  "renameFolderTitle": {
+    "message": "Zmień nazwę folderu"
+  },
+  "deleteItemTitle": {
+    "message": "Usuń „{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Folder i cała jego zawartość zostaną usunięte."
+  },
+  "settings": {
+    "message": "Ustawienia"
+  },
+  "language": {
+    "message": "Język"
+  },
+  "languageAuto": {
+    "message": "Automatycznie (język przeglądarki)"
+  },
+  "signIn": {
+    "message": "Zaloguj się przez Google"
+  },
+  "signOut": {
+    "message": "Wyloguj się"
+  },
+  "signInPrompt": {
+    "message": "Zaloguj się, aby synchronizować ulubione przez Dysk Google."
+  },
+  "syncError": {
+    "message": "Nie udało się zsynchronizować z Dyskiem Google."
+  },
+  "mobileTitle": {
+    "message": "Użyj na telefonie"
+  },
+  "mobileText": {
+    "message": "Zeskanuj kod QR, aby otworzyć stronę, i ustaw ten adres jako stronę główną w Chrome (Ustawienia → Strona główna)."
+  }
+}

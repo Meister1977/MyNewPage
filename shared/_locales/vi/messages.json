@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Thẻ mới của riêng bạn với mục yêu thích có thể chỉnh sửa, đồng bộ qua Google Drive."
+  },
+  "addCurrentTab": {
+    "message": "Thêm vào mục yêu thích của thẻ mới"
+  },
+  "newTabTitle": {
+    "message": "Thẻ mới"
+  },
+  "searchPlaceholder": {
+    "message": "Hỏi Google"
+  },
+  "search": {
+    "message": "Tìm kiếm"
+  },
+  "searchGoogle": {
+    "message": "Tìm kiếm trên Google"
+  },
+  "favorites": {
+    "message": "Mục yêu thích"
+  },
+  "folder": {
+    "message": "Thư mục"
+  },
+  "folderName": {
+    "message": "Tên thư mục"
+  },
+  "close": {
+    "message": "Đóng"
+  },
+  "name": {
+    "message": "Tên"
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "save": {
+    "message": "Lưu"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "add": {
+    "message": "Thêm"
+  },
+  "newFavorite": {
+    "message": "Mục yêu thích mới"
+  },
+  "editFavorite": {
+    "message": "Chỉnh sửa mục yêu thích"
+  },
+  "actions": {
+    "message": "Thao tác"
+  },
+  "openInNewTab": {
+    "message": "Mở trong thẻ mới"
+  },
+  "open": {
+    "message": "Mở"
+  },
+  "rename": {
+    "message": "Đổi tên"
+  },
+  "edit": {
+    "message": "Chỉnh sửa"
+  },
+  "moveEarlier": {
+    "message": "Di chuyển lên trước"
+  },
+  "moveLater": {
+    "message": "Di chuyển ra sau"
+  },
+  "removeFromFolder": {
+    "message": "Xóa khỏi thư mục"
+  },
+  "deleteFolder": {
+    "message": "Xóa thư mục"
+  },
+  "delete": {
+    "message": "Xóa"
+  },
+  "renameFolderTitle": {
+    "message": "Đổi tên thư mục"
+  },
+  "deleteItemTitle": {
+    "message": "Xóa “{0}”"
+  },
+  "deleteFolderMessage": {
+    "message": "Thư mục và mọi nội dung trong đó sẽ bị xóa."
+  },
+  "settings": {
+    "message": "Cài đặt"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "languageAuto": {
+    "message": "Tự động (ngôn ngữ trình duyệt)"
+  },
+  "signIn": {
+    "message": "Đăng nhập bằng Google"
+  },
+  "signOut": {
+    "message": "Đăng xuất"
+  },
+  "signInPrompt": {
+    "message": "Đăng nhập để đồng bộ mục yêu thích qua Google Drive."
+  },
+  "syncError": {
+    "message": "Không thể đồng bộ với Google Drive."
+  },
+  "mobileTitle": {
+    "message": "Dùng trên điện thoại"
+  },
+  "mobileText": {
+    "message": "Quét mã QR để mở trang, rồi đặt địa chỉ này làm trang chủ của Chrome (Cài đặt → Trang chủ)."
+  }
+}

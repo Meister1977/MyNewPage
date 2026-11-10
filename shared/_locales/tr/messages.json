@@ -1,0 +1,119 @@
+{
+  "extDescription": {
+    "message": "Düzenlenebilir sık kullanılanlarla kendi yeni sekmeniz, Google Drive ile senkronize edilir."
+  },
+  "addCurrentTab": {
+    "message": "Yeni sekme sık kullanılanlarına ekle"
+  },
+  "newTabTitle": {
+    "message": "Yeni Sekme"
+  },
+  "searchPlaceholder": {
+    "message": "Google'a sor"
+  },
+  "search": {
+    "message": "Ara"
+  },
+  "searchGoogle": {
+    "message": "Google'da ara"
+  },
+  "favorites": {
+    "message": "Sık kullanılanlar"
+  },
+  "folder": {
+    "message": "Klasör"
+  },
+  "folderName": {
+    "message": "Klasör adı"
+  },
+  "close": {
+    "message": "Kapat"
+  },
+  "name": {
+    "message": "Ad"
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "save": {
+    "message": "Kaydet"
+  },
+  "ok": {
+    "message": "Tamam"
+  },
+  "add": {
+    "message": "Ekle"
+  },
+  "newFavorite": {
+    "message": "Yeni sık kullanılan"
+  },
+  "editFavorite": {
+    "message": "Sık kullanılanı düzenle"
+  },
+  "actions": {
+    "message": "Eylemler"
+  },
+  "openInNewTab": {
+    "message": "Yeni sekmede aç"
+  },
+  "open": {
+    "message": "Aç"
+  },
+  "rename": {
+    "message": "Yeniden adlandır"
+  },
+  "edit": {
+    "message": "Düzenle"
+  },
+  "moveEarlier": {
+    "message": "Öne taşı"
+  },
+  "moveLater": {
+    "message": "Sona taşı"
+  },
+  "removeFromFolder": {
+    "message": "Klasörden çıkar"
+  },
+  "deleteFolder": {
+    "message": "Klasörü sil"
+  },
+  "delete": {
+    "message": "Sil"
+  },
+  "renameFolderTitle": {
+    "message": "Klasörü yeniden adlandır"
+  },
+  "deleteItemTitle": {
+    "message": "“{0}” öğesini sil"
+  },
+  "deleteFolderMessage": {
+    "message": "Klasör ve içindeki her şey silinecek."
+  },
+  "settings": {
+    "message": "Ayarlar"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "languageAuto": {
+    "message": "Otomatik (tarayıcı dili)"
+  },
+  "signIn": {
+    "message": "Google ile oturum aç"
+  },
+  "signOut": {
+    "message": "Oturumu kapat"
+  },
+  "signInPrompt": {
+    "message": "Sık kullanılanlarınızı Google Drive üzerinden senkronize etmek için oturum açın."
+  },
+  "syncError": {
+    "message": "Google Drive ile senkronizasyon başarısız oldu."
+  },
+  "mobileTitle": {
+    "message": "Telefonda kullan"
+  },
+  "mobileText": {
+    "message": "Sayfayı açmak için QR kodunu tarayın ve bu adresi Chrome ana sayfası olarak ayarlayın (Ayarlar → Ana sayfa)."
+  }
+}
