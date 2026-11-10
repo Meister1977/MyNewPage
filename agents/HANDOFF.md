@@ -22,8 +22,8 @@ No backend of our own. Owner/developer: **Ambrózy Lőrinc**. GitHub: `https://g
 | Version | 2.0 (v1.0 was a bookmarks-based prototype, never published, kept locally in `D:\LocalDev\MyNewPage v1.0`) |
 | Site root (static description + privacy) | `https://mynewpage.as.hu` |
 | Web app (QR code points here) | `https://mynewpage.as.hu/myhome/index.html` |
-| Extension ID (dev, fixed via manifest `key`) | `jgbaghbhfikcipnjokedafpodefeedmp` |
-| Extension ID (Chrome Web Store) | `jjapkfgoiafccclijagmmlbghhnhflmk` (set as Item ID of the extension OAuth client in Google Cloud) |
+| Old dev extension ID (previous manifest `key`, no longer used) | `jgbaghbhfikcipnjokedafpodefeedmp` |
+| Extension ID (Chrome Web Store; the manifest `key` is now the store public key, so unpacked builds get this ID too) | `jjapkfgoiafccclijagmmlbghhnhflmk` (set as Item ID of the extension OAuth client in Google Cloud) |
 | Google Cloud project | `mynewpage2` |
 | Web OAuth client ID | `362067408220-sio8klbkilb3vkv6rqv7jv8nftiga1f1.apps.googleusercontent.com` (in `shared/config.js`) |
 | Extension OAuth client ID | `362067408220-56dnfp7ft7dpqusu8mtirpk3u49movon.apps.googleusercontent.com` (in `platform/extension/manifest.json`) |

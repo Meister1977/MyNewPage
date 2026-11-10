@@ -2,11 +2,10 @@
   "manifest_version": 3,
   "default_locale": "en",
   "name": "MyNewPage",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmxnsSu90HipWJ0eS1d9/ZCVEQwVqUiABqZrqdQbXVcH0pO8p8Q/7rG405JISXgc/qxy0GjLAdhd6WCuKgIGpHMM0k07pTnQF0QMAqhFy+BZiry/gdg5Geyuod4CCoWwgnjg4v/cDM2DHHnY2biejZzFENVGiI8CgtCDqXx6dPPmyQJUKkSylqVcyluK5sM69etQtDLyf03JILKJp6Bzg0OK0dOTjdzCKTD9qsDxhsf60iopuW/BMNggLRVCvzCaZxafYd/6gR+R5tS9Mmy5/gr/cckXdMGiwOFl8WMoH4nTFbe1/IvZVl+qYsds7QOjDvJvBUUMeo9fRBJIUnmwQpQIDAQAB",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr7qsAxkPh9TbVjvUCq1mZwq0L/e7bX7RpttMJivRszLBOiLiJCjfmzOzHwVVjnlkBI+iOWL+BobZwAqRWXG/2VhmNXeX8jwLrNBo3ZnyvqSzg54E8lq0IX9sMk2NMWdKIXgD+t6u2remohFOgIxIyWKz64QHZ2pSnfThiwPNP2gPElolHAd479NIEKPhQZ0eGG7hBvVrAGOWy2jTu3Sn1ebFB1xZetTOxy5VfkulJesyMu/09YRmWpXZMiCMdrn0xjSZn/1Ltm0MggxPq3uJ6Ufa0ybCcyBnSLozU8u3p+ObNoHuR7KUu8aEwBaMMWq2CAsPc9kdBTp4iQMt/B6QvQIDAQAB",
   "version": "2.0",
   "description": "__MSG_extDescription__",
   "permissions": ["favicon", "activeTab", "storage", "search", "identity"],
-  "host_permissions": ["https://www.googleapis.com/*"],
   "oauth2": {
     "client_id": "362067408220-56dnfp7ft7dpqusu8mtirpk3u49movon.apps.googleusercontent.com",
     "scopes": ["https://www.googleapis.com/auth/drive.appdata"]
