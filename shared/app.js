@@ -290,6 +290,19 @@ $("search").addEventListener("submit", e => {
   });
   render();
   if (Store.signedIn) Store.sync();
+  // A weben a token 1 óráig él, a csendes megújítást a böngésző felhasználói gesztus nélkül gyakran letiltja:
+  // az első kattintásra/érintésre/billentyűre újra megpróbáljuk.
+  if (!Platform.isExtension) {
+    const retry = e => {
+      if (!Store.signedIn || Store.status !== "signedOut") return;
+      if (e.target.closest?.("#signInBtn")) return;
+      removeEventListener("pointerdown", retry, true);
+      removeEventListener("keydown", retry, true);
+      Store.sync();
+    };
+    addEventListener("pointerdown", retry, true);
+    addEventListener("keydown", retry, true);
+  }
   // Másik eszközön végzett változások átvétele.
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "visible" && Store.signedIn && Date.now() - Store.lastSync > 20000) Store.sync();
