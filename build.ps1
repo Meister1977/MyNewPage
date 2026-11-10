@@ -1,3 +1,4 @@
+param([switch]$Store) # -Store: Chrome Web Store csomag (a manifest "key" mezője nélkül) + dist\extension.zip
 $ErrorActionPreference = "Stop"
 $root = $PSScriptRoot
 # név -> (kimeneti mappa, oldal fájlneve). A webes nyitólap a /myhome/ alatt van, a gyökér a leíró oldalé.
@@ -15,6 +16,16 @@ foreach ($name in $targets.Keys) {
   Copy-Item "$root\vendor\qrcode.js" $out
   Copy-Item "$root\platform\$name\*" $out -Recurse
   Copy-Item "$root\shared\page.html" (Join-Path $out $targets[$name].Page)
+  if ($Store -and $name -eq "extension") {
+    $mf = Join-Path $out "manifest.json"
+    $json = Get-Content $mf -Raw -Encoding UTF8 | ConvertFrom-Json
+    $json.PSObject.Properties.Remove("key")
+    [IO.File]::WriteAllText($mf, ($json | ConvertTo-Json -Depth 20), (New-Object Text.UTF8Encoding $false))
+    $zip = Join-Path $root "dist\extension.zip"
+    if (Test-Path $zip) { Remove-Item $zip -Force }
+    Compress-Archive -Path "$out\*" -DestinationPath $zip
+    Write-Host "Store package: dist\extension.zip"
+  }
   Write-Host "Built $($targets[$name].Out)"
 }
 
