@@ -112,17 +112,27 @@ then re-run the pipeline. Locale codes use Chrome's names (`pt_BR`, `zh_CN`, `zh
 ## Status
 
 Done: v2.0 extension + web app (Drive sync, folders, i18n, settings with QR, sign-in/out), static site (description with screenshots, privacy policy, obfuscated contact), public README, tools, Store logic test, build script.
-**Not verified in a real Chrome profile / on a real phone** (only syntax checks, the Node Store test with a fake Drive, and headless-Edge rendering of the web build). Test these first:
-extension load, `getAuthToken` sign-in, Drive file creation/pull, toolbar "add tab", GIS popup sign-in on mobile Chrome, drag/folder flows.
+Verified by the owner in real Chrome: extension sign-in, Drive sync between extension and web, toolbar "add tab" (after the Item ID / manifest `key` fix below).
+**Still not verified:** mobile Chrome GIS sign-in, drag/folder flows on a phone, the silent token retry on the web (see below).
+
+Chrome Web Store (in progress, owner handles the dashboard):
+- Store extension ID `jjapkfgoiafccclijagmmlbghhnhflmk`. The manifest `key` in the repo is the store **public** key, so unpacked builds get the same ID and the extension OAuth client (Item ID = that ID) works for local testing. A wrong/missing `key` gives a path-based ID and `bad client id`.
+- `host_permissions` for googleapis.com was removed (fetch to the Drive API works from the extension without it; verified with sync). Permissions now: `favicon, activeTab, storage, search, identity`.
+- Upload with `build.ps1 -Store` -> `dist\extension.zip` (no `key`). Bump `version` in `platform/extension/manifest.json` if a package was already submitted. Owner was told how to cancel a pending review and upload a new package.
+- `store-assets/screenshot-1.png`, `screenshot-2.png`: 1280x800, 24-bit PNG, no alpha (generated from the web build with sample data via headless Edge over a local http server; file:// does not work because of fetch).
+- Prepared English store texts (single purpose, permission justifications for favicon, activeTab, storage, search, identity) were given in chat only; see `site/privacy.html` for the same wording.
+
+Web sign-in: GIS access tokens live **1 hour** and there is no refresh token without a backend + client secret (deliberately not used). `shared/app.js` retries the silent refresh (`prompt:"none"`) on the first pointer/key event when the status is `signedOut`; otherwise the sign-in bar stays. Needs a real-browser test (wait >1 h or delete `mnp.token` from localStorage).
 
 ## Open TODOs
 
 1. **Add a `LICENSE`** (none yet; the repo is announced as open source). Ask the owner which one (MIT/Apache-2.0/GPL-3.0) and reference it in `README.md`.
 2. Owner uploads `dist\web` to `https://mynewpage.as.hu` (HTTPS required); `dist\web\myhome\` = web app.
 3. Google Cloud: while the OAuth consent screen is in *Testing*, only listed test users can sign in and tokens expire after ~7 days. Move to *In production*; provide the privacy policy URL `https://mynewpage.as.hu/privacy.html` and verify the domain.
-4. Chrome Web Store (planned later): remove the manifest `key` before uploading; the store assigns a new extension ID -> update the extension OAuth client's Item ID in Google Cloud. Needs screenshots (1280x800), permission justifications (see `site/privacy.html`).
+4. Chrome Web Store: package is submitted/being re-submitted by the owner (see Status). Next: after approval, make sure the OAuth consent screen is *In production* and test sign-in with the store-installed build.
 5. Translations were written by the AI without native review; rarer languages should be reviewed.
-6. Optional ideas: neutral logo / hide Google wordmark when the default search engine is not Google; touch-friendly "add to folder" action; backups/export; remove the stale `v1.0` references if the owner archives it.
+6. Optional: clearer sync-bar message when the web token has expired ("click to sync"); a refresh-token flow only if a small backend is ever accepted.
+7. Optional ideas: neutral logo / hide Google wordmark when the default search engine is not Google; touch-friendly "add to folder" action; backups/export; remove the stale `v1.0` references if the owner archives it.
 
 ## Working agreements with the owner
 
